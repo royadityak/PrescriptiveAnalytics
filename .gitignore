@@ -103,3 +103,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 .vagrant
+
+#Jupyter Notebook
+.ipynb_checkpoints
