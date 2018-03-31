@@ -10,3 +10,7 @@
     <p> Prediction on reviews dataset</p>
     <p> Sentimenent Analysis using NLTK </p>
 
+<hr/>
+<h4> ReadMe last updated on </h4>
+    <p> March 24, 2018 </p>
+<hr/>
