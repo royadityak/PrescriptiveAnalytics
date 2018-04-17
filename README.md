@@ -13,7 +13,9 @@
 
 <h3> Forecasting </h3>
     <ul style="list-style-type:square">
-      <li> MPG - UC Irvine</li>
+      <li> MPG - UC Irvine </li>
+      <li> Using Housing data to predict future house prices - Using Lasso and XGBoost (Ongoing) </li>
+      <li> Using Titanic data to evaluate different Machine Learning models </li>
     </ul>
 
 <h3> Geographical Modelling </h3>
@@ -63,5 +65,5 @@
 
 <hr/>
 <h4> ReadMe last updated on </h4>
-    <li> April 14, 2018 </li>
+    <li> April 17, 2018 </li>
 <hr/>
