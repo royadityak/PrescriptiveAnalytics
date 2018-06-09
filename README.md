@@ -16,6 +16,7 @@
       <li> MPG - UC Irvine </li>
       <li> Using Housing data to predict future house prices - Using Lasso and XGBoost (Ongoing) </li>
       <li> Using Titanic data to evaluate different Machine Learning models </li>
+      <li> Sales Forecasting using Facebook Prophet Library </li>
     </ul>
 
 <h3> Geographical Modelling </h3>
