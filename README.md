@@ -2,12 +2,12 @@
 
 <h3> Classification </h3>
     <ul style="list-style-type:square">
-      <li> <a href=""> Binary Classification model on Breast Cancer Dataset </a> [<a href="">Source</a>]</li>
-      <li> <a href=""> Dropout Risk Rate Prediction for University Students  </a> [<a href="">Source</a>]</li>
+      <li> <a href="Classification/Supervised_Breast_Cancer_BC.ipynb"> Binary Classification model on Breast Cancer Dataset </a> [<a href="https://archive.ics.uci.edu/ml/datasets/breast+cancer">Source</a>]</li>
+      <li> <a href="Classification/StudentDropoutPredictor/"> Dropout Risk Rate Prediction for University Students  </a> [<a href="https://github.com/dssg/">Source</a>]</li>
       <li> <a href="Classification/Classifier-Digit-Recognition.ipynb"> Classifier for Digit Recognition </a> [<a href="http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits">Source</a>]</li>
-      <li> <a href=""> Iris Classifier </a> [<a href="">Source</a>]</li>
-      <li> <a href=""> Regression Model on PIMA-Indians Dataset </a> [<a href="">Source</a>]</li>
-      <li> <a href=""> Notebook on Pipeline classification </a> [<a href="">Source</a>]</li>
+      <li> <a href="Classification/Classifier-Iris.ipynb"> Iris Classifier </a> [<a href="https://archive.ics.uci.edu/ml/datasets/iris">Source</a>]</li>
+      <li> <a href="Classification/Logistic-Regression-PIMA-Indians.ipynb"> Regression Model on PIMA-Indians Dataset </a> [<a href="https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv">Source</a>]</li>
+      <li> <a href="Classification/Pipeline-Classification.ipynb"> Notebook on Pipeline classification </a> [<a href="https://archive.ics.uci.edu/ml/datasets/wine+quality">Source</a>]</li>
     </ul>
 
 
