@@ -2,12 +2,12 @@
 
 <h3> Classification </h3>
     <ul style="list-style-type:square">
-      <li> Binary Classification model on Breast Cancer Dataset</li>
-      <li> Dropout Risk Rate Prediction for University Students </li>
-      <li> Classifier for Digit Recognition</li>
-      <li> Iris Classifier</li>
-      <li> Regression Model on PIMA-Indians Dataset</li>
-      <li> Notebook on Pipeline classification</li>
+      <li> <a href=""> Binary Classification model on Breast Cancer Dataset </a> [<a href="">Source</a>]</li>
+      <li> <a href=""> Dropout Risk Rate Prediction for University Students  </a> [<a href="">Source</a>]</li>
+      <li> <a href="Classification/Classifier-Digit-Recognition.ipynb"> Classifier for Digit Recognition </a> [<a href="http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits">Source</a>]</li>
+      <li> <a href=""> Iris Classifier </a> [<a href="">Source</a>]</li>
+      <li> <a href=""> Regression Model on PIMA-Indians Dataset </a> [<a href="">Source</a>]</li>
+      <li> <a href=""> Notebook on Pipeline classification </a> [<a href="">Source</a>]</li>
     </ul>
 
 
