@@ -45,7 +45,7 @@
 
 <h3> Regression </h3>
     <ul style="list-style-type:square">
-      <li> <a href="Regression/Housing_Predictions_Tensorflow.ipynb"> Building Prediction model with Tensorflow on Housing Predictions dataset </a> [<a href="https://www.gapminder.org/data/">Source</a>] </li>
+      <li> <a href="Regression/Housing_Predictions_Tensorflow.ipynb"> Building Prediction model with Tensorflow on Housing Predictions dataset </a> [<a href="https://github.com/john-boyer-phd/TensorFlow-Samples/blob/master/Regression/cal_housing_data%20with%20headers.csv">Source</a>] </li>
       <li> <a href="Regression/Linear-Regression-Lasso%26Ridge.ipynb"> Building LR Model using Lasso & Ridge </a> [<a href="https://www.gapminder.org/data/">Source</a>] </li>
       <li> <a href="Regression/Pipeline-Regression.ipynb"> Buiding Regression pipeline on Gapminder dataset </a> [<a href="https://www.gapminder.org/data/">Source</a>] </li>
     </ul>
@@ -57,7 +57,7 @@
     
 <h3> Unsupervised Learning</h3>
     <ul style="list-style-type:square">
-      <li> <a href="UnsupervisedLearning/HierarchicalClustering_Eurovision_Contest.ipynb"> Hierarchical clustering on Eurovision contest </a> [<a href="www.eurovision.tv/page/results">Source</a>] </li>
+      <li> <a href="UnsupervisedLearning/HierarchicalClustering_Eurovision_Contest.ipynb"> Hierarchical clustering on Eurovision contest </a> [<a href="https://www.eurovision.tv/page/results">Source</a>] </li>
       <li> <a href="UnsupervisedLearning/Exploring-word-frequencies.ipynb"> Exploring word frequencies </a> [<a href="https://datacamp.com">Source</a>] </li>
       <li> <a href="UnsupervisedLearning/KMeansClustering_2DPoints.ipynb"> KMeans clustering on 2D points </a> [<a href="https://www.datacamp.com/courses/unsupervised-learning-in-python">Source</a>] </li>
       <li> <a href="UnsupervisedLearning/KMeansClustering_FishMeasurements.ipynb"> KMeans clustering on fish measurements dataset </a> [<a href="https://www.datacamp.com/courses/unsupervised-learning-in-python">Source</a>] </li>
