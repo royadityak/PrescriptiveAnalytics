@@ -3,7 +3,6 @@
 <h3> Classification </h3>
     <ul style="list-style-type:square">
       <li> <a href="Classification/Supervised_Breast_Cancer_BC.ipynb"> Binary Classification model on Breast Cancer Dataset </a> [<a href="https://archive.ics.uci.edu/ml/datasets/breast+cancer">Source</a>]</li>
-      <li> <a href="Classification/StudentDropoutPredictor/"> Dropout Risk Rate Prediction for University Students  </a> [<a href="https://github.com/dssg/">Source</a>]</li>
       <li> <a href="Classification/Classifier-Digit-Recognition.ipynb"> Classifier for Digit Recognition </a> [<a href="http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits">Source</a>]</li>
       <li> <a href="Classification/Classifier-Iris.ipynb"> Iris Classifier </a> [<a href="https://archive.ics.uci.edu/ml/datasets/iris">Source</a>]</li>
       <li> <a href="Classification/Logistic-Regression-PIMA-Indians.ipynb"> Regression Model on PIMA-Indians Dataset </a> [<a href="https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv">Source</a>]</li>
@@ -13,7 +12,6 @@
 
 <h3> Forecasting </h3>
     <ul style="list-style-type:square">
-      <li> <a href="Forecasting/MPG-Prediction-UC-Irvine"> MPG - UC Irvine </a> [<a href="https://archive.ics.uci.edu/ml/datasets/auto+mpg">Source</a>]</li>
       <li> <a href="Forecasting/Forecasting_Housing_XGBoost_Lasso.ipynb"> Using Housing data to predict future house prices - Using Lasso and XGBoost (Ongoing) </a> [<a href="http://jse.amstat.org/v19n3/decock.pdf">Source</a>]</li>
       <li> <a href="Forecasting/Testing_Best_Model_Titanic_Survival_Predictions.ipynb"> Using Titanic data to evaluate different Machine Learning models </a> [<a href="https://www.kaggle.com/c/titanic">Source</a>]</li>
       <li> <a href="Forecasting/SalesForecasting_UsingProphet.ipynb"> Sales Forecasting using Facebook Prophet Library </a> [<a href="https://www.rossmann.de/einkaufsportal.html">Source</a>]</li>
@@ -52,7 +50,6 @@
 
 <h3> Sentiment Analyis</h3>
     <ul style="list-style-type:square">
-      <li> <a href="SentimentAnalysis/NLTKSentimentAnalysis.py"> Sentimenent Analysis using NLTK </a> [<a href="https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data">Source</a>] </li>
     </ul>
     
 <h3> Unsupervised Learning</h3>
